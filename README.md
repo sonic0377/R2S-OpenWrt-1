@@ -32,7 +32,7 @@ To start service:
 
 The Latest Edition of Snapshot （The day of the latest action）
 
-LuCI version：19.07
+LuCI version：LuCI Master ( snapshot )
 
 Doge contains SSRP and JD-DailyBonus
 
