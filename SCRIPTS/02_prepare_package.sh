@@ -3,7 +3,7 @@ clear
 #Kernel
 wget -O- https://patch-diff.githubusercontent.com/raw/openwrt/openwrt/pull/3277.patch | patch -p1
 wget -O- https://patch-diff.githubusercontent.com/raw/openwrt/openwrt/pull/3178.patch | patch -p1
-#wget -O- https://patch-diff.githubusercontent.com/raw/openwrt/openwrt/pull/3406.patch | patch -p1
+wget -O- https://patch-diff.githubusercontent.com/raw/openwrt/openwrt/pull/3432.patch | patch -p1
 notExce(){
 #RT Kernel
 cp -f ../PATCH/new/main/999-patch-5.4.61-rt37.patch ./target/linux/generic/hack-5.4/999-patch-5.4.61-rt37.patch
